@@ -14,6 +14,7 @@ const App = () => {
   return (
     <>
       <PreLoader />
+
       <Routes>
         <Route exact path='/' element={<Home />} />
         <Route exact path='/Skill' element={<Skill />} />
@@ -21,6 +22,7 @@ const App = () => {
         <Route exact path='/Experience' element={<Experience />} />
         <Route exact path='/Certificate' element={<Certificate />} />
       </Routes>
+
     </>
   )
 };
