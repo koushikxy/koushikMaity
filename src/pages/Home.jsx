@@ -35,7 +35,7 @@ const Home = () => {
             />
             </h1>
           </div>
-          <p data-aos='fade-up' data-aos-delay='100' data-aos-once='false' className='text-slate-300 md:text-base text-sm tracking-[1px] md:pt-8 mt-2'>At XIM University, I'm now working towards a Bachelor degree in Computer Science and Engineering. As a computer enthusiast, I've always been interested in the limitless opportunities that technology may provide to improve the world.</p>
+          <p data-aos='fade-up' data-aos-delay='100' data-aos-once='false' className='text-slate-300 md:text-base text-sm tracking-[1px] md:pt-8 mt-2'>At XIM University, I'm now pursuing a Bachelor degree in Computer Science and Engineering. As a computer enthusiast, I've always been interested in the limitless opportunities that technology may provide to improve the world.</p>
           <div data-aos='fade-up' data-aos-delay='100' data-aos-once='false' className='md:mt-14 mt-8 flex justify-center'>
             <button className='border-2 md:text-base text-[10px] border-white rounded-md p-3 text-white font-medium tracking-[1.5px] hover:bg-white hover:text-black mr-2 '><Link target='_blank' to='https://drive.google.com/file/d/14LYi-6hBtQasRnf9gjLhTEAxag2C8p_7/view?usp=sharing'>DOWNLOAD RESUME</Link></button>
             <button className='border-2 md:text-base text-[10px] border-white rounded-md py-3 px-8 text-white font-medium tracking-[1.5px] hover:bg-white hover:text-black ml-2'><Link target='_blank' to='mailto:ksmaity21@gmail.com'>CONTACT ME</Link></button>
